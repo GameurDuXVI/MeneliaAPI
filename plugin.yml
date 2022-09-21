@@ -1,0 +1,26 @@
+name: MeneliaAPI
+version: 1.0
+author: GameurDuXVI
+main: fr.gameurduxvi.meneliaapi.MeneliaAPI
+commands:
+  server:
+    description: 
+    permission: bungeecord.server
+  account:
+    description: 
+    permission: admin.account
+  admin:
+    description: 
+    permission: admin.open
+  ping:
+    description:
+    permission: 
+  tempban:
+    description:
+    permission: admin.tempban
+  report:
+    description:
+    permission: 
+  friend:
+    description:
+    permission: 
